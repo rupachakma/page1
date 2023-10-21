@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.nav img{
+    width: 90px;
+    margin: 5px 200px;
+}
+.bg_img{
+    /* height: 600px; */
+    padding: 8em;
+    background: url(image/banner_Image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    text-align: center;
+}
+
+.bg_img h1{
+    font-size: 4rem;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
+
+hr {
+    width: 35%;
+    margin: 0 auto;
+    margin-bottom: 12px;
+    border-color: rgb(47, 154, 186);
+}
+ .bg_img button{
+    background-color: transparent;
+    color: white;
+    border-color: rgb(41, 114, 154);
+    padding: 10px;
+    margin-top: 50px;
+    border-style: solid;
+    
+ }
+.title{
+    background-color: rgb(242, 239, 239);
+    height: 20vh;
+    text-align: center;
+}
+
+.desc{
+    margin: 20px 200px;
+    
+}
+.body{
+    margin-top: 100px;
+    display: flex;
+    gap: 50px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.card1{
+    margin-left: 5px;
+    height: 250px;
+    text-align: center;
+    
+}
+
+.card2{
+    height: 250px;
+    text-align: center;
+    
+}
+.card3{
+    margin-right: 5px;
+    height: 250px;
+    text-align: center;
+}
+
+
